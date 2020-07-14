@@ -6,5 +6,6 @@ layout: home
 ---
 
 <body>
-    <h1>Welcome to my website!</h1>
+            <h1>Welcome to my website!</h1>
+            <p>I'm not sure I get the point of using Jekyll at the moment but here we are.</p>
 </body>
