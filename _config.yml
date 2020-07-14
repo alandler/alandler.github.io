@@ -1,0 +1,15 @@
+title: Anna Landler
+email: alandler@mit.edu
+description: >- # this means to ignore newlines until "baseurl:"
+  MIT class of 2022. Systems Engineering and Computer Science.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "alandler.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+github_username:  alandler
+
+theme: minima
+plugins:
+  - jekyll-feed
+
+
+name: Anna Landler
+markdown: kramdown
