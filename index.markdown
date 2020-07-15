@@ -11,7 +11,7 @@ title: Home
 <h3>Personal Website</h3>
 <p>Thanks for popping in. This is very much a work in progress.
 Arguably, I am even in the pre-progress phase. I'm glad I'm overcoming the
-Jekyll learning curver though, rather than making a <b>normie</b> static bootstrap
+Jekyll learning curve though, rather than making a <b>normie</b> static bootstrap
 HTML page.</p>
 
 <p>I really hope to make this a functional portfolio at some point. It is
