@@ -28,7 +28,7 @@ even though I'm from Connecticut. </p>
 
 <h3>PROJECTS</h3>
 <p>Honestly, my favorite projects are simple little guys. Like using python to find the best value room on my floor to place my bid during rooming. Or creating a grocery budget spreadsheet that autofills price based on object and splits evenly with my roommate, with contingencies for if we are sharing or not, who paid the joint bill, etc. Or even my personal budgeting spreadsheet that is <b>way</b> more detailed than those Excel templates. </p> 
-<p>But just wait until I convert my Todoist Time Tracker (name: Oversubscribed) to an MVC model using React and learn iOS dev for fun because THAT is a cool projet.</p>
+<p>But just wait until I convert my Todoist Time Tracker (name: Oversubscribed) to an MVC model using React and learn iOS dev for fun because THAT is a cool project.</p>
 <p>Also I've somehow done a lot of school projects (some solo, some teams):</p>
 <ul>
 <li>1.097- Created website that displays Boston parking data with stats.</li>
