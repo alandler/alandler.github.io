@@ -1,9 +1,15 @@
 .current {
-    color: green;
+    color: white;
+    text-decoration: none;
+    font-weight: bold
   }
+.not-current {
+  color: lightgray;
+  text-decoration: none;
+}
 
 nav {
-  background-color: whitesmoke;
+  background-color: darkgreen;
   padding: 15px;
   align-content: center;
 }
