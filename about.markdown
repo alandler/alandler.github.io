@@ -13,8 +13,8 @@ a double major in Course 1 (Systems Engineering) and Course 6-3
 with a team to build colorfly.herokuapp.com, though honestly MAJOR shoutout to Ben 
 who really took the reins on that one... I tried my best and intend to re learn React.
 I worked in the MIT Transit lab to create a javascript-based tool that displays
-at-risk areas of the T. Currently, I am working to develop a more integrated full stack
-tool regarding traffic signaling and autonomous vehicles. Also, I am trying to build my
+flood-prone areas of the T. Currently, I am working to develop a more integrated full stack
+tool regarding traffic signaling (with RL!) and autonomous vehicles. Also, I am trying to build my
 own web app that is a time tracking add on for Todoist.</p>
 
 <p>I wish I had more time for said side projects, because Computer Science classes are
@@ -38,8 +38,6 @@ even though I'm from Connecticut. </p>
 <li>6.08 - Recreated Snapmaps basically.</li>
 <li>11.S187 - Sadly cut short due to Covid-19, but was working to present insights from MIT's Recycling dataset.</li>
 <li>15.053 - Formulated an optimization model to represent efficient distribution of solar cells in Sierra Leone.</li>
-<li>MIT Transit Lab Research - Front end of tool that displays flood-prone areas of the T</li>
-<li>MIT Wu Lab Research - Current! Full tool that displays relevant KPIs in different RL-based traffic control scenarios. Also with scenarios involving incorporation of autonomous vehicles into cities!</li>
 
 <h3>GOALS</h3>
 <ul>
