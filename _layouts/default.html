@@ -1,29 +1,12 @@
-<!DOCTYPE html>
-	<html>
-		<head>
-			<title>{{ page.title }}</title>
-			<!-- link to main stylesheet -->
-			<link rel="stylesheet" type="text/css" href="/css/main.css">
-		</head>
-		<body>
-			<nav style = "background: paleturquoise">
-	    		<ul>
-	        		<li style = "display: inline;"><a href="/">Home</a></li>
-		        	<li style = "display: inline;"><a href="/about">About</a></li>
-	        		<li style = "display: inline;"><a href="/cv">CV</a></li>
-	        		<li style = "display: inline;"><a href="/blog">Blog</a></li>
-	    		</ul>
-			</nav>
-			<div class="container">
-			
-			{{ content }}
-			
-			</div><!-- /.container -->
-			<footer>
-	    		<ul>
-	        		<li><a href="mailto:alandler@mit.com">email</a></li>
-	        		<li><a href="https://github.com/alandler">github.com/alandler</a></li>
-				</ul>
-			</footer>
-		</body>
-	</html>
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>{{ page.title }}</title>
+    <link rel="stylesheet" href="/assets/css/styles.css">
+  </head>
+  <body>
+    {% include navigation.html %}
+    {{ content }}
+  </body>
+</html>
