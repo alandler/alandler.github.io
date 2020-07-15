@@ -1,10 +1,4 @@
----
-layout: default
-title: About
-permalink: /about
----
-
-<h1>Anna Landler</h1>
+I"V<h1>Anna Landler</h1>
 <p>Hi! I'm Anna. I am part of the MIT class of 2022, currently pursuing
 a double major in Course 1 (Systems Engineering) and Course 6-3
 (Computer Science and Engineering). I suppose one could say I enjoy engineering.</p>
@@ -23,7 +17,7 @@ run for the MIT varsity track and field team, play club soccer, and do a couple 
 fun clubs like the Undergraduate Association Sustainability Subcommmittee and Hawaii Club...
 even though I'm from Connecticut. </p>
 
-<h3>GOALS</h3>
+<h6>GOALS</h6>
 <ul>
 <li>Get better at PyTorch! Side project, perhaps?</li>
 <li>Get better at D3! Incorporate into current research project and Todoist app.</li>
@@ -33,3 +27,4 @@ even though I'm from Connecticut. </p>
 <li>Read "Educated" and finish reading "Anna Karenina"</li>
 <li>Get a fall internship. So necessary. Honestly priority #1 </li>
 </ul>
+:ET
