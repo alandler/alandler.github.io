@@ -22,7 +22,8 @@ unerringly backend heavy and I just want to do ~cool~ and ~funky~ visualizations
 
 <p>Apart from hours of debugging and scouring documentation for new frontend tools I
 run for the MIT varsity track and field team, play club soccer, and do a couple other
-fun clubs like the Undergraduate Association Sustainability Subcommmittee and Hawaii Club...
+fun clubs like the Undergraduate Association Sustainability Subcommmittee and Hawaii Club 
+(#Webmaster also wow do I need to revamp that website... I've learned so much)...
 even though I'm from Connecticut. </p>
 
 <h3>PROJECTS</h3>
