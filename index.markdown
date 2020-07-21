@@ -12,7 +12,8 @@ title: Home
 <p>Thanks for popping in. This is very much a work in progress.
 Arguably, I am even in the pre-progress phase. I'm glad I'm overcoming the
 Jekyll learning curve though, rather than making a <b>normie</b> static bootstrap
-HTML page.</p>
+HTML page. I feel like this website ill-presents my skills but I still have it live
+just because I made it. And that's at least a wee bit cool.</p>
 
 <p>I really hope to make this a functional portfolio at some point. It is
 actually nontrivially difficult to find the time to work full time, maintain
