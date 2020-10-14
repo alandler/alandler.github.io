@@ -74,7 +74,9 @@ a double major in Course 1 (Systems Engineering) and Course 6-3
 - 21A.500: Technology and Culture
 
 ## Projects
+
 ### School
+
 -1.097- Created website that displays Boston parking data with stats.
 -1.057- Scaling gypsum arches and testing for load capacity.
 -1.101- prototype self-rising flood barriers.
@@ -83,10 +85,13 @@ a double major in Course 1 (Systems Engineering) and Course 6-3
 - 6.08 - Recreated Snapmaps basically.
 - 11.S187 - Sadly cut short due to Covid-19, but was working to present insights from MIT's Recycling dataset.
 - 15.053 - Formulated an optimization model to represent efficient distribution of solar cells in Sierra Leone.
+
 ### Personal
+
 *OverSubscribed*: This React web app (undeployed and private on my github at the moment) enables users to estimate the time required to complete various tasks. These tasks are imported via the Todoist API. User inputs estimates per task, and the app processes the hours and due dates. A calendar is displayed displaying the number of hours per day required to complete all the tasks by each of their due dates.
 
 ## Future Goals
+
 - Get better at PyTorch (or Tensorflow)! Side project, perhaps?
 - Get better at D3! Incorporate into current research project and Todoist app.
 - Understand webpack and babel... using the create-react-app seems cheap
