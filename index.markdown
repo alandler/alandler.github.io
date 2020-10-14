@@ -9,14 +9,9 @@ title: Home
 <body>
 <h1>Anna Landler</h1>
 <h3>Personal Website</h3>
-<p>Thanks for popping in. This is very much a work in progress.
-Arguably, I am even in the pre-progress phase. I'm glad I'm overcoming the
-Jekyll learning curve though, rather than making a <b>normie</b> static bootstrap
-HTML page. I feel like this website ill-presents my skills but I still have it live
-just because I made it. And that's at least a wee bit cool.</p>
 
-<p>I really hope to make this a functional portfolio at some point. It is
-actually nontrivially difficult to find the time to work full time, maintain
-~wellness~ and work on the things that would go in said portfolio. That being said,
-I'm looking forward to getting some more <code>commits</code> up in here.</p>
+<p> Hi! I'm Anna, a CS and Systems Engineering student at MIT. I spend my time running for MIT Track and Field (400m and 400H), completing PSets in everything from transportation modeling to software construction, and researching how autonomous vehices might affect system-level safety. I'm currently learning remotely from Utah.</p>
+
+<p> I created this site mostly to learn how to use Jekyll, but I am periodically updating it with information on my academic, professional, and personal interests. It is certainly a work in progress. Thanks for visiting :) </p>
+
 </body>
