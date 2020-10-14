@@ -12,18 +12,21 @@ a double major in Course 1 (Systems Engineering) and Course 6-3
 (Computer Science and Engineering).
 
 ### Coursework
-* IAP = January Term
+*IAP = January Term
 
 **Freshman Year**
+
 *Freshman Fall*
 - 7.012: Intro Biology
 - 8.01: Physics I
 - 14.73: The Challenge of World Poverty
 - 18.02: Calculus 
+
 *Freshman IAP*
 - 1.097: Intro to CEE Research
 - 6.057: Intro to MATLAB
 - 6.145: Brief Intro to Python
+
 *Freshman Spring*
 - 1.060A: Fluid Mechanics I
 - 1.089A: Earth's Microbiomes I
@@ -33,6 +36,7 @@ a double major in Course 1 (Systems Engineering) and Course 6-3
 - 18.03: Differential Equations
 
 **Sophomore Year**
+
 *Sophomore Fall*
 - 1.010: Probability and Causal Inference
 - 1.057: Heritage Science and Technology
@@ -40,9 +44,11 @@ a double major in Course 1 (Systems Engineering) and Course 6-3
 - 3.091: Intro to Solid-State Chemistry
 - 6.009: Fundamentals of Programming
 - 12.386: Environment and History
+
 *Sophomore IAP*
 - 6.148: Web Lab: Prog & Competition
 - 6.176 Pokerbots Competition
+
 *Sophomore Spring*
 - 1.102: Civil and Environ Engr Design II
 - 1.S992: Spec Sub: Covid-19 Current Reserach
@@ -55,7 +61,9 @@ a double major in Course 1 (Systems Engineering) and Course 6-3
 - 18.S190: Spec. Sub: Covid-19 Modelling
 
 **Junior Year**
+
 *Junior Fall - current*
+
 - 1.041: Transportation Modeling
 - 6.031: Software Construction
 - 6.046: Design and Analysis of Algorithms 
