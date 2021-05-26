@@ -6,6 +6,8 @@ permalink: /about
 
 # Hi! I'm Anna Landler
 
+
+
 ## Academics
 I am part of the MIT class of 2022, currently pursuing
 a double major in Course 1 (Systems Engineering) and Course 6-3
@@ -62,7 +64,7 @@ a double major in Course 1 (Systems Engineering) and Course 6-3
 
 **Junior Year**
 
-*Junior Fall - current*
+*Junior Fall*
 
 - 1.041: Transportation Modeling
 - 6.031: Software Construction
@@ -73,16 +75,34 @@ a double major in Course 1 (Systems Engineering) and Course 6-3
 - 6.UAR: Seminar in Undergrad Research
 - 21A.500: Technology and Culture
 
+*Junior IAP*
+
+- 6.S095: Intermediate Probability Problem Solving Techniques
+
+*Junior Spring*
+
+- 1.00: Engineering Computation and Data Science
+- 1.020: Engineering Sustainability
+- 6.004: Computation Structures
+- 6.819: Computer Vision
+- 6.911: Engineering Leadership Lab
+- 6.912: Engineering Leadership
+- 6.UAR: Seminar in Undergrad Research
+-21.H187: Environmetal Governance and History
+
 ## Projects
 
 ### School
 
+-1.00 - Created a website called "AirChef" that displayed real-time data and statistics from air sensors in my apartment.
 -1.097- Created website that displays Boston parking data with stats.
 -1.057- Scaling gypsum arches and testing for load capacity.
 -1.101- prototype self-rising flood barriers.
 -1.102 - Modeling slime mold expansion.
-- 6.009 - This entire class was long labs/projects. One lab was writing the backend to the game "Bloons".
+-1.020 - Used MATLAB to model heat transfer in a floor plan of our own design in terms of area and materials. Developed a heating/cooling control scheme and ran simulations.
+- 6.009 - This class focused on extensive labs/projects. One lab was writing the backend to the game "Bloons".
 - 6.08 - Recreated Snapmaps basically.
+- 6.819 - Used VGG architecture to classify Covid-19 Chest X-Rays (positive/negative as well as negative/mild/moderate/severe). Interpreted with SHAP.
 - 11.S187 - Sadly cut short due to Covid-19, but was working to present insights from MIT's Recycling dataset.
 - 15.053 - Formulated an optimization model to represent efficient distribution of solar cells in Sierra Leone.
 
