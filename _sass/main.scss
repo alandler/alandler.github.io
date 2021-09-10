@@ -4,14 +4,19 @@
     font-weight: bold
   }
 .not-current {
-  color: lightgray;
+  color: rgb(223, 219, 219);
   text-decoration: none;
 }
 
 nav {
-  background-color: darkgreen;
+  background-color: darkslategray;
   padding: 15px;
   align-content: center;
+  text-align: center;
+}
+
+nav a {
+  padding-right: 15px;
 }
 
 html {
@@ -19,5 +24,102 @@ html {
 }
 
 body {
-  margin: 25px;
+  // margin: 25px;
+  margin:0px;
+}
+
+/******************* Project header information *******************/
+
+.project-header{
+  justify-content: center;
+  text-align: center;
+  width: 100%;
+}
+
+/******************* Project block information *******************/
+.project-container{
+  display: flex;
+  width:100%;
+  justify-content: center;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+.project-block{
+  align-items: center;
+  justify-content: center;
+
+  background: rgb(45, 73, 45);
+  border: 2px solid black;
+  margin: 1%;
+  width: 20%;
+  // height: 22%;
+  aspect-ratio: 1/1;
+
+  display: flex;
+  position: relative;
+  transition: .5s ease;
+  overflow: scroll;
+}
+
+.project-block:hover {
+  opacity: 0.9;
+  transition: .5s ease;
+}
+
+.project-block:hover .project-block-content{
+  opacity:1;
+  transition: .3s ease;
+  color: rgba(255, 255, 255, 0);
+}
+
+.project-block:hover .project-block-overlay{
+  transition: .5s ease;
+  display:block;
+  color: rgba(255, 255, 255, 1);
+}
+
+.project-block:hover .project-block-overlay a{
+  transition: .5s ease;
+  display:block;
+  color: rgba(255, 255, 255, 1);
+}
+
+.project-block-content {
+  top: 0;
+  left: 0;
+  text-align: center;
+  display:block;
+  color: rgba(255, 255, 255, 1);
+  transition: .5s ease;
+}
+
+.project-block-overlay{
+  text-align: center;
+  position: absolute;
+  top: 0;
+  left: 0;
+  color: rgba(255, 255, 255, 0);
+  transition: .5s ease;
+  padding:3%;
+}
+
+.project-block-overlay a{
+  text-align: center;
+  color: rgba(255, 255, 255, 0);
+  transition: .5s ease;
+}
+
+.project-block a{
+  font-size: larger;
+}
+.project-block p{
+  font-size: small;
+}
+
+
+/******************* Class block information *******************/
+
+.class-container {
+  padding: 5%;
 }

@@ -1,0 +1,25 @@
+---
+layout: default
+---
+
+<div class="projects">
+    <div class = "project-header">
+        <h1>Projects</h1>
+    </div>
+    {% if site.posts %}
+    {% assign projects = site.posts %}
+    {% endif %}
+    <div class="project-container">
+        {% for project in projects %}
+        <div class="project-block">
+            <div class="project-block-content">
+                <a class="project-block-link">{{project.title}}</a><br />
+                <p class="project-course">{{project.course}}</p>
+            </div>
+            <div class="project-block-overlay">
+                {{project.content}}
+            </div>
+        </div>
+        {% endfor %}
+    </div>
+</div>

@@ -1,0 +1,4 @@
+I"+<h2 id="snapmaps">Snapmaps</h2>
+
+<p>My group’s final project for 6.08 (Embedded Systems) involved using our arduinos to create an app. We chose to make a very slimmed-down version of Snapchat’s Map feauture, where you can see where your friends are. We used the camera and GPS and sent it, base64-encoded, to our server. We handled the request, and stored the information in a database. I was responsible for most of the frontend, including using Google Maps to embed markers from each datapoint, and a listing of all images associated with them.</p>
+:ET

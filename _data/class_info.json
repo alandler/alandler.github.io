@@ -1,0 +1,57 @@
+{
+    "7.012": ["Freshman", "Fall", "Introductory Biology", 12, "P"],
+    "8.01": ["Freshman", "Fall", "Physics I", 12, "P"],
+    "14.73": ["Freshman", "Fall", "Challenge of World Poverty", 12, "P"],
+    "18.02": ["Freshman", "Fall", "Calculus", 12, "P"],
+
+    "1.097": ["Freshman", "IAP", "Intro to CEE Research", 12, "P"],
+    "6.057": ["Freshman", "IAP", "Intro to MATLAB", 12, "P"],
+    "6.145": ["Freshman", "IAP", "Brief Intro to Python", 12, "P"],
+
+    "1.060A": ["Freshman", "Spring", "Fluid Mechanics I", 12, "A"],
+    "1.089A": ["Freshman", "Spring", "Earth's Microbiomes I", 12, "B"],
+    "6.0002": ["Freshman", "Spring", "Intro: Comp Thinking & Data Sci", 12, "B"],
+    "8.02": ["Freshman", "Spring", "Physics II", 12, "P"],
+    "11.169": ["Freshman", "Spring", "Climate Policy", 12, "A"],
+    "18.03": ["Freshman", "Spring", "Differential Equations", 12, "B"],
+
+    "1.010": ["Sophomore", "Fall", "Probability & Causal Inference", 12, "A"],
+    "1.057": ["Sophomore", "Fall", "Heritage Science and Technology", 9, "A"],
+    "1.101": ["Sophomore", "Fall", "Civil & Envir Engr Design I", 6, "A"],
+    "1.EPW": ["Sophomore", "Fall", "UPOP Engr Practice Workshop", 1, "P"],
+    "3.091": ["Sophomore", "Fall", "Intro to Solid-State Chemistry", 12, "P"],
+    "6.009": ["Sophomore", "Fall", "Fundamentals of Programming", 12, "A"],
+    "12.386": ["Sophomore", "Fall", "Environment and History", 12, "A"],
+
+    "6.148": ["Sophomore", "IAP", "Web Lab: Prog & Competition", 6, "P"],
+    "6.176": ["Sophomore", "IAP", "Pokerbots Competition", 6, "P"],
+
+    "1.102": ["Sophomore", "Spring", "Civil & Envir Engr Design II", 6, "PE"],
+    "1.EPE": ["Sophomore", "Spring", "UPOP Engr Practice Experience", 1, "PE"],
+    "1.S992": ["Sophomore", "Spring", "Special Subj: Civil & Envir Engr", 3, "PE"],
+    "6.006": ["Sophomore", "Spring", "Intro to Algorithms", 12, "PE"],
+    "6.036": ["Sophomore", "Spring", "Intro to Machine Learning", 12, "PE"],
+    "6.08": ["Sophomore", "Spring", "Embedded Systems", 12, "PE"],
+    "11.155": ["Sophomore", "Spring", "Data and Society", 12, "PE"],
+    "11.S187": ["Sophomore", "Spring", "Special Subj: Urban Studies & Plannning", 6, "PE"],
+    "15.053": ["Sophomore", "Spring", "Optimization Methods: Business Analytics", 12, "PE"],
+    "18.S190": ["Sophomore", "Spring", "Special Subject in Mathematics", 6, "PE"],
+
+    "1.041": ["Junior", "Fall", "Transportation and Systems Modeling", 12, "A"],
+    "6.031": ["Junior", "Fall", "Elements of Software Construction", 15, "B"],
+    "6.046": ["Junior", "Fall", "Design and Analysis of Algorithms", 12, "PE"],
+    "6.902": ["Junior", "Fall", "Design Innovation for Engineers", 6, "A"],
+    "STS.075": ["Junior", "Fall", "Technology and Culture", 9, "A"],
+
+    "6.S095": ["Junior", "IAP", "Special Subject in EE & CS", 6, "P"],
+
+    "1.00": ["Junior", "Spring", "Eng Computation and Data Science", 12, "A"],
+    "1.020": ["Junior", "Spring", "Engineering Sustainability", 15, "B"],
+    "6.004": ["Junior", "Spring", "Computation Structures", 12, "PE"],
+    "6.819": ["Junior", "Spring", "Advances in Computer Vision", 6, "A"],
+    "21H.187": ["Junior", "Spring", "US Environmental Governance", 9, "A"],
+
+    "6.UAR": ["Junior", "Fall/Spring", "Seminar in Undergrad Research", 6, "A"],
+    "6.911": ["Junior", "Fall/Spring", "Engineering Leadership Lab", 6, "A"],
+    "6.912": ["Junior", "Fall/Spring", "Engineering Leadership", 6, "A"]
+}

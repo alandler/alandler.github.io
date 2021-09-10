@@ -1,0 +1,14 @@
+---
+layout: project
+title: COVID-19 Image Diagonsis
+course: 6.819 (Computer Vision)
+permalink: /bloons
+---
+
+## COVID-19 Image Diagonsis
+
+My partner and I produced a final report for our class. This involved compiling a unique dataset from 2 data sources, and training a VGG network with Pytorch. We replicated competitive accuracy in diagnosing COVID-19 (yes/no), and successfully classified chest X-rays into severity categories of severe, moderate, mild, and negative. We interpreted these diagnoses for practitioners using SHAP, highlighting pixels most important to the diagnosis. 
+
+[Download the PDF report](/assets/documents/6.819_report.pdf)
+
+

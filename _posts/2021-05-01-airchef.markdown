@@ -1,0 +1,12 @@
+---
+layout: project
+title: Airchef
+course: 1.00 (Engineering Computation)
+permalink: /airchef
+---
+
+## Airchef
+
+My partner and I produced a final project for our class, Engineering Computation. We are both interested in environmental health effects, and had done modules in the past regarding indoor air pollution. We were able to obtains two portable air quality sensors that gather live data. We set up a kitchen and a control to investigate the effects of cooking on partiuclate matter levels. Using the live data from the sensors, we created a web interface that embedded the live data, calculated statistics in real tiime, and explained the experiment. We also maintained a log of everythng being cooked, to correlate trends with what was cooked. The final product was a polished full-stack website.
+
+

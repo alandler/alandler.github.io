@@ -1,0 +1,4 @@
+I"<h2 id="bloons">Bloons</h2>
+
+<p>For the final lab of 6.009 (Fundamentals of Programming), I coded a simple back-end comparable to the popular mobile game, Bloons. This involved handling logic to get icons to follow a prescribed path, and using bounding-boxes to determine hits.</p>
+:ET

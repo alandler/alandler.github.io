@@ -1,0 +1,10 @@
+---
+layout: project
+title: Generative Art Web App
+course: 6.148 (web.lab)
+permalink: /colorfly
+---
+
+## Generative Art Web App
+
+I was on a team of 3 that created a web app that enables users to login with a google account and create art. This was the project completed during the month-long January Term (IAP). By clicking the screen, you can create circles and lines of various sizes, colors, glows. These are stored using MongoDB. You can view the project [here](https://colorfly.herokuapp.com)

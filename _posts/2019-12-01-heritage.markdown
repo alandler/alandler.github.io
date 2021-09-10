@@ -1,0 +1,10 @@
+---
+layout: project
+title: Scalability of Gypsum Arches
+course: 1.057 (Heritage Science)
+permalink: /heritage
+---
+
+## Scalability of Gypsum Arches
+
+In the summer of 2019, I travelled to Italy on a research trip. When we returned, my team of 3 conducted an related project. My team selected to use gypsum to investigate the scalability of arches. We created 3 sets of 3 arches of increasing size, and loaded them with force. To achieve better results, we believe it would have been better to have thinner netting material and choose larger sizes to see a more profound impact.

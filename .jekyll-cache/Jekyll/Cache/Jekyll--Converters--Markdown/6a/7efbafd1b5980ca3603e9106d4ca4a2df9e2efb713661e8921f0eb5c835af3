@@ -1,0 +1,7 @@
+I"Z<h2 id="covid-19-image-diagonsis">COVID-19 Image Diagonsis</h2>
+
+<p>My partner and I produced a final report for our class. This involved compiling a unique dataset from 2 data sources, and training a VGG network with Pytorch. We replicated competitive accuracy in diagnosing COVID-19 (yes/no), and successfully classified chest X-rays into severity categories of severe, moderate, mild, and negative. We interpreted these diagnoses for practitioners using SHAP, highlighting pixels most important to the diagnosis.</p>
+
+<p><a href="/assets/documents/6.819_report.pdf">Download the PDF report</a></p>
+
+:ET
