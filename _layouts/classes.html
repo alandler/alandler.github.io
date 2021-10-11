@@ -2,9 +2,9 @@
 layout: default
 ---
 
-<div class="class-container">
+<div class="row class-container">
     {% for year in site.data.semesters%}
-    <div class="semester-block">
+    <div class="col-4 semester-block">
         <h2>{{year[0]}}</h2>
         {% for term in year[1]%}
         <h5> {{term[0]}}</h5>
