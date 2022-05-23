@@ -6,12 +6,9 @@ permalink: /classes
 
 # Hi! I'm Anna Landler
 
-
+I just graduated from MIT with a double major in course 1 (Civil and Environmental Engineering) and course 6-3 (Computer Science and Engineering). This summer I start full-time as a software engineer at Crusoe Energy. I'll take a break from work in the fall of 2022 to complete my M.Eng. at MIT in CS. My thesis project involves creation of a sector-coupled capacity expansion model for New England decarboniztion infrastructure. 
 
 ## Academics
-I am part of the MIT class of 2022, currently pursuing
-a double major in Course 1 (Systems Engineering) and Course 6-3
-(Computer Science and Engineering).
 
 ### Coursework
 *IAP = January Term
@@ -88,21 +85,42 @@ a double major in Course 1 (Systems Engineering) and Course 6-3
 - 6.911: Engineering Leadership Lab
 - 6.912: Engineering Leadership
 - 6.UAR: Seminar in Undergrad Research
--21.H187: Environmetal Governance and History
+- 21.H187: Environmetal Governance and History
+
+**Senior Year**
+
+*Senior Fall*
+
+- 1.022: Introduction to Network Models	
+- 1.074: Multivariate Data Analysis
+- 6.864: Quantitative Natural Lang Processing
+- 11.001: Intro to Urban Design & Development
+- 18.061: Linear Algebra and Optimization
+
+*Senior Spring*
+
+- 1.013: Civil Engineering Design Project (Capstone)
+- 6.033: Computer Systems Engineering
+- 6.695	Engineering, Economics & Regulation: Electric Power
+- 6.THM: Master of Engineering Program Thesis
+- 21W.762: Poetry Workshop
 
 ## Projects
 
 ### School
 
--1.00 - Created a website called "AirChef" that displayed real-time data and statistics from air sensors in my apartment.
--1.097- Created website that displays Boston parking data with stats.
--1.057- Scaling gypsum arches and testing for load capacity.
--1.101- prototype self-rising flood barriers.
--1.102 - Modeling slime mold expansion.
--1.020 - Used MATLAB to model heat transfer in a floor plan of our own design in terms of area and materials. Developed a heating/cooling control scheme and ran simulations.
+- 1.00 - Created a website called "AirChef" that displayed real-time data and statistics from air sensors in my apartment.
+- 1.013 - Programmed a simulation of long-haul EV trucking on the I-5 corridor that produces a set of metrics to evaluate the suitability of the charging infrastructure. From this, we used an algorithm to compute alterntive configurations that would improve these metrics.
+- 1.097- Created website that displays Boston parking data with stats.
+- 1.057- Scaling gypsum arches and testing for load capacity.
+- 1.101- prototype self-rising flood barriers.
+- 1.102 - Modeling slime mold expansion.
+- 1.020 - Used MATLAB to model heat transfer in a floor plan of our own design in terms of area and materials. Developed a heating/cooling control scheme and ran simulations.
 - 6.009 - This class focused on extensive labs/projects. One lab was writing the backend to the game "Bloons".
 - 6.08 - Recreated Snapmaps basically.
+- 6.695 - Wrote a final case study on the state of the electric power system in Ireland.
 - 6.819 - Used VGG architecture to classify Covid-19 Chest X-Rays (positive/negative as well as negative/mild/moderate/severe). Interpreted with SHAP.
+- 6.864 - Created a decade classifier for movies based on inputted conversations from scripts.
 - 11.S187 - Sadly cut short due to Covid-19, but was working to present insights from MIT's Recycling dataset.
 - 15.053 - Formulated an optimization model to represent efficient distribution of solar cells in Sierra Leone.
 
@@ -110,14 +128,5 @@ a double major in Course 1 (Systems Engineering) and Course 6-3
 
 *OverSubscribed*: This React web app (undeployed and private on my github at the moment) enables users to estimate the time required to complete various tasks. These tasks are imported via the Todoist API. User inputs estimates per task, and the app processes the hours and due dates. A calendar is displayed displaying the number of hours per day required to complete all the tasks by each of their due dates.
 
-## Future Goals
-
-- Get better at PyTorch (or Tensorflow)! Side project, perhaps?
-- Get better at D3! Incorporate into current research project and Todoist app.
-- Understand webpack and babel... using the create-react-app seems cheap
-- Fiddle around with datasets...maybe ones with <i>trains</i> and <i>transit</i>... pandas, numpy, seaborn...
-- Read "Educated" and finish reading "Anna Karenina"
-- AWS.
-- Do a project in Django (tutorial complete)
-- Learn about potential future industries (such as finance, fintech, startups, SWE)
+*Humming Game*: Currently a jupyter notebook that produces a list of 3 songs from 3 playlists, as well as an artist. I hope to find the time to make this an app that hits the Spotify API.
 
